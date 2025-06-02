@@ -1,4 +1,4 @@
-"Hey, Git!" 
+"Heyyyyyyyyyyyyy, Git!" 
 "Learning Git is fun!" 
 
 "Changes from User2"
